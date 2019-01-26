@@ -10,13 +10,10 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  buildConfiguration: 'Release'
-
-
-variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
+
 
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
@@ -34,4 +31,3 @@ steps:
 
 - task: PublishBuildArtifacts@1
   displayName: 'publish artifacts'
-  
