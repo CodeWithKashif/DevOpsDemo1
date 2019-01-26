@@ -21,5 +21,12 @@ namespace DevOpsDemo1.UnitTests
             Assert.IsNotNull(result);
         }
 
+        [TestMethod]
+        public void should_return_result1()
+        {
+            var result = _customerService.GetCustomerName();
+            Assert.IsTrue(result.Length > 0);
+        }
+
     }
 }
