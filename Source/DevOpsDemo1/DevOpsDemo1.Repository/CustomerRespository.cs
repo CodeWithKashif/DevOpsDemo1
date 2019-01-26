@@ -18,7 +18,7 @@ namespace DevOpsDemo1.Repository
             string longTimeString = DateTime.Now.ToLongTimeString();
 
 
-            return longDateString + "---" +longTimeString;
+            return "Current time - " + longDateString + "---" +longTimeString;
         }
     }
 }
