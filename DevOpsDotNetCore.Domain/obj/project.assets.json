@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj",
       "projectName": "DevOpsDotNetCore.Domain",
-      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj",
       "packagesPath": "C:\\Users\\kashif.reza\\.nuget\\packages\\",
-      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

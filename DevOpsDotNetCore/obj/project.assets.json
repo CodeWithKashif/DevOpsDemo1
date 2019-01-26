@@ -13283,11 +13283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore\\DevOpsDotNetCore.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore\\DevOpsDotNetCore.csproj",
       "projectName": "DevOpsDotNetCore",
-      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore\\DevOpsDotNetCore.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore\\DevOpsDotNetCore.csproj",
       "packagesPath": "C:\\Users\\kashif.reza\\.nuget\\packages\\",
-      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13306,8 +13306,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj": {
-              "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj"
+            "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj": {
+              "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj"
             }
           }
         }

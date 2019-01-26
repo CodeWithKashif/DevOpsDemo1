@@ -5717,11 +5717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.UnitTests\\DevOpsDotNetCore.UnitTests.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.UnitTests\\DevOpsDotNetCore.UnitTests.csproj",
       "projectName": "DevOpsDotNetCore.UnitTests",
-      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.UnitTests\\DevOpsDotNetCore.UnitTests.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.UnitTests\\DevOpsDotNetCore.UnitTests.csproj",
       "packagesPath": "C:\\Users\\kashif.reza\\.nuget\\packages\\",
-      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.UnitTests\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5740,8 +5740,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj": {
-              "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDotNetCore\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj"
+            "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj": {
+              "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\DevOpsDotNetCore.Domain\\DevOpsDotNetCore.Domain.csproj"
             }
           }
         }

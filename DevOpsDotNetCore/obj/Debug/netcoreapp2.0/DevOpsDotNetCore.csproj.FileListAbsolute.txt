@@ -12,3 +12,17 @@ E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCo
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.csproj.CopyComplete
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.dll
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.deps.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.runtimeconfig.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.runtimeconfig.dev.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.csprojAssemblyReference.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.csproj.CopyComplete
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.pdb

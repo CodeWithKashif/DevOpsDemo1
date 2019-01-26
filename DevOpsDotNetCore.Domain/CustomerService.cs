@@ -9,6 +9,7 @@ namespace DevOpsDotNetCore.Domain
 
         }
 
+
         public string GetCustomerName()
         {
             return DateTime.Now.ToLongDateString() + " -- " + DateTime.Now.ToLongTimeString();
