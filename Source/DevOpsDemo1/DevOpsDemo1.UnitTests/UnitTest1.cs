@@ -24,6 +24,7 @@ namespace DevOpsDemo1.UnitTests
         [TestMethod]
         public void should_return_result1()
         {
+            //This is test comment
             var result = _customerService.GetCustomerName();
             Assert.IsTrue(result.Length > 0);
         }
