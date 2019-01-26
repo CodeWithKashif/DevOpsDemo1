@@ -2,17 +2,14 @@
 
 namespace DevOpsDemo1.Repository
 {
-    /// <summary>
-    /// This is our first main repo
-    /// </summary>
-    public class CustomerRespository
+    public class OrderRespository
     {
-        public CustomerRespository()
+        public OrderRespository()
         {
             
         }
 
-        public string GetCustomerName()
+        public string GetOrderName()
         {
             return DateTime.Now.ToLongDateString() + "---" +DateTime.Now.ToLongTimeString();
         }
