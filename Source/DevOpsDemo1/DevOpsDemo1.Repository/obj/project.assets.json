@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEVELOPMENT\\DevOpsDemo1\\DevOpsDemo1.Repository\\DevOpsDemo1.Repository.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDemo1\\DevOpsDemo1.Repository\\DevOpsDemo1.Repository.csproj",
       "projectName": "DevOpsDemo1.Repository",
-      "projectPath": "E:\\DEVELOPMENT\\DevOpsDemo1\\DevOpsDemo1.Repository\\DevOpsDemo1.Repository.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDemo1\\DevOpsDemo1.Repository\\DevOpsDemo1.Repository.csproj",
       "packagesPath": "C:\\Users\\kashif.reza\\.nuget\\packages\\",
-      "outputPath": "E:\\DEVELOPMENT\\DevOpsDemo1\\DevOpsDemo1.Repository\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\Git\\findkashif\\DevOpsDemo1\\Source\\DevOpsDemo1\\DevOpsDemo1.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

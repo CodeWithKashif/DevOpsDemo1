@@ -7,3 +7,12 @@ E:\DEVELOPMENT\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOp
 E:\DEVELOPMENT\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.AssemblyInfo.cs
 E:\DEVELOPMENT\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.dll
 E:\DEVELOPMENT\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\bin\Debug\netstandard2.0\DevOpsDemo1.Repository.deps.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\bin\Debug\netstandard2.0\DevOpsDemo1.Repository.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\bin\Debug\netstandard2.0\DevOpsDemo1.Repository.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.csprojAssemblyReference.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDemo1\DevOpsDemo1.Repository\obj\Debug\netstandard2.0\DevOpsDemo1.Repository.pdb
