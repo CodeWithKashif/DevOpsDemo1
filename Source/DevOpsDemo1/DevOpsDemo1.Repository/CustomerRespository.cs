@@ -3,7 +3,7 @@
 namespace DevOpsDemo1.Repository
 {
     /// <summary>
-    /// This is our first main repo push from console
+    /// This is our first main repo
     /// </summary>
     public class CustomerRespository
     {
@@ -15,7 +15,10 @@ namespace DevOpsDemo1.Repository
         public string GetCustomerName()
         {
             string longDateString = DateTime.Now.ToLongDateString();
-            return longDateString + "---" +DateTime.Now.ToLongTimeString();
+            string longTimeString = DateTime.Now.ToLongTimeString();
+
+
+            return longDateString + "---" +longTimeString;
         }
     }
 }
