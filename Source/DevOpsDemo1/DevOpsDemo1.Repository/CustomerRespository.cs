@@ -14,7 +14,8 @@ namespace DevOpsDemo1.Repository
 
         public string GetCustomerName()
         {
-            return DateTime.Now.ToLongDateString() + "---" +DateTime.Now.ToLongTimeString();
+            string longDateString = DateTime.Now.ToLongDateString();
+            return longDateString + "---" +DateTime.Now.ToLongTimeString();
         }
     }
 }
