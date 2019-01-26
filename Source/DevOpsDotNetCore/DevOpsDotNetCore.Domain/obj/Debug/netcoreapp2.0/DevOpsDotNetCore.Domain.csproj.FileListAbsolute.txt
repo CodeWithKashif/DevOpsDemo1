@@ -6,3 +6,4 @@ E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCo
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.Domain\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.AssemblyInfo.cs
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.Domain\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.dll
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.Domain\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.Domain\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.csprojAssemblyReference.cache
