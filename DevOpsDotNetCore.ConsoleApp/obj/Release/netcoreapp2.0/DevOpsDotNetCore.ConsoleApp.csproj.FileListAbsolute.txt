@@ -1,0 +1,10 @@
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\bin\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.deps.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\bin\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.runtimeconfig.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\bin\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.runtimeconfig.dev.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\bin\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\bin\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Release\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.pdb
