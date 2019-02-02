@@ -1,0 +1,17 @@
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.deps.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.runtimeconfig.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.runtimeconfig.dev.json
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.csprojAssemblyReference.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.csproj.CopyComplete
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.dll
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.IntegrationTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.IntegrationTests.pdb

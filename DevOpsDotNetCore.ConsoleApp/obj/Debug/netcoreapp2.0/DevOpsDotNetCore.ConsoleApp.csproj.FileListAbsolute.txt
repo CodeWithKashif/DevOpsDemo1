@@ -8,3 +8,4 @@ E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Debug\
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.AssemblyInfo.cs
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.dll
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.pdb
+E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.ConsoleApp\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.ConsoleApp.csprojAssemblyReference.cache
