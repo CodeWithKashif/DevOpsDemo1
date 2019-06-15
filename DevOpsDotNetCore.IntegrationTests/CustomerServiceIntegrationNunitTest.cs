@@ -1,25 +1,26 @@
 using DevOpsDotNetCore.Domain;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace DevOpsDotNetCore.IntegrationTests
 {
-    [TestClass]
-    public class CustomerServiceIntegrationTest
+    [TestFixture]
+    public class CustomerServiceIntegrationNunitTest
     {
 
-        [TestMethod]
+        [Test]
         public void IntegrationTest_Method1()
         {
             Assert.IsNotNull(new CustomerService().GetCustomerName());
         }
 
-        [TestMethod]
+        [Test]
         public void IntegrationTest_Method2()
         {
             Assert.IsTrue(new CustomerService().GetCustomerName().Length > 0);
         }
 
-        [TestMethod]
+        [Test]
         public void IntegrationTest_Method3()
         {
             Assert.IsTrue(new CustomerService().GetCustomerName().Length < 100000);

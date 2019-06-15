@@ -1,19 +1,19 @@
 using DevOpsDotNetCore.Domain;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace DevOpsDotNetCore.UnitTests
 {
-    [TestClass]
-    public class CustomerServiceTest1
+    [TestFixture]
+    public class CustomerServiceNunitTest
     {
 
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             Assert.IsNotNull(new CustomerService().GetCustomerName());
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod2()
         {
             Assert.IsTrue(new CustomerService().GetCustomerName().Length > 0);

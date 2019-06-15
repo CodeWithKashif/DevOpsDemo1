@@ -15,9 +15,6 @@ E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCo
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.dll
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.Domain.pdb
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\Source\DevOpsDotNetCore\DevOpsDotNetCore.UnitTests\obj\Debug\netcoreapp2.0\DevOpsDotNetCore.UnitTests.csproj.CopyComplete
-E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.UnitTests.deps.json
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.UnitTests.runtimeconfig.json
 E:\DEVELOPMENT\Git\findkashif\DevOpsDemo1\DevOpsDotNetCore.UnitTests\bin\Debug\netcoreapp2.0\DevOpsDotNetCore.UnitTests.runtimeconfig.dev.json
